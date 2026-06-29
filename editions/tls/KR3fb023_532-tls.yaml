@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb023/tls/v1/juan/532
+seq: 532
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 歷代長術輯要卷七
+  hash: sha256:65c751d8aaf6c70003f9faa282c40654d373b7c43bc100b5e4a937ddbf4f4fa8
+metadata:
+  title: 歷代長術輯要
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb023.xml
+hash: sha256:5287965e64e563eea3f14d591b28a6288fc8a90bb302de8ec7a72fcb38c061eb

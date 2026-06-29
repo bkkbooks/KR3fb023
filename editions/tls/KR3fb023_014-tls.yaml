@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb023/tls/v1/juan/14
+seq: 14
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 就簡仿通鑑目錄專載朔閏又取羣書所見朔閏不合者綴于每年之末編爲輯要十卷其諸術攷二卷乃推步之凡例仍附於後葢距初布算時已逾三十年矣歲月不居學殖荒落此書雖頗費日力不過覆瓿之資耳爲之太息丁卯五月汪曰楨識
+  hash: sha256:a2997610758c55c1e823d4cd246dd6b42e14e79f434423ae4f003411566e1b93
+metadata:
+  title: 歷代長術輯要
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb023.xml
+hash: sha256:368e65a5295de13aa83da6500dccaccf04784d140058299bbe7025cfafaabdc4

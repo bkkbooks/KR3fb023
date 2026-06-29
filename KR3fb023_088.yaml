@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb023/tls/v1/juan/88
+seq: 88
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 酉三壬申五辛未六庚午八己巳十戊辰十二丁卯朔閏五歷代長術輯要卷一
+  hash: sha256:1d74df704dc1439d97e7272b86b143880439eda7f33952d337909e08955f61cb
+metadata:
+  title: 歷代長術輯要
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb023.xml
+hash: sha256:ecb81a4a0754af87b1b788c6bc9ee3b0bc7597ecb25b727f64ff767bca5b3469

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb023/tls/v1/juan/24
+seq: 24
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 遼史二十卷卷二百五至卷二百二十四金史十二卷卷二百二十五至卷二百三十六元史明史附推策小識三十六卷
+  hash: sha256:6fe4fad63a754e30fc611d509c2d1e22f32f4a9cd2ca467d4c7d00162e416991
+metadata:
+  title: 歷代長術輯要
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb023.xml
+hash: sha256:12add63b185c9bcd981d024e687fcb54294b997c461d7b114b1b4e56be25bcfe

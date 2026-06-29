@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb023/tls/v1/juan/504
+seq: 504
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二月辛酉朔又祭廬山文二月二十五日乙酉通鑑攷異十戊午朔並不合戊戌十三正乙酉三甲申六癸丑八壬子十辛亥十二庚戌朔按正元術同舊志閏五會要六壬子朔並不合己亥十四正庚辰二己酉四戊申六丁未九丙子十一乙亥朔按正元術同庚子十五正甲戌二癸酉四壬申六辛未八庚午十一己亥朔閏正正癸卯雨水二癸酉春分按正元術同舊紀十一乙亥朔劉禹錫祭柳員外文正戊戌朔並不合辛丑穆宗長慶元正戊戌三丁酉五丙申六乙丑八甲子十
+  hash: sha256:16962cdcc95fbfb9c20765735a66d08e9db1ba59e2412d00b526c815565c3378
+metadata:
+  title: 歷代長術輯要
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb023.xml
+hash: sha256:3d969aad128a8cf1d8116625996406c2788ce56f3a42fdae3f5ab3a933ed8619

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb023/tls/v1/juan/154
+seq: 154
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 己酉四正建子己丑二戊午四丁巳六丙辰八乙卯十一甲申朔庚戌五正建子癸未三壬午五辛巳七庚辰九己卯十一戊寅十二丁丑朔閏十一十一丙午霜降十二丁丑小雪辛亥六正建子丁未三丙午五乙巳七甲辰九癸卯十一壬寅朔壬子七正建子辛丑三庚子五己亥八戊辰十丁卯十二丙寅朔歷代長術輯要卷二
+  hash: sha256:4498b1727e367fdb068aa0730c9642ddc36e7d38ce71ab99cd50b8ab9565605a
+metadata:
+  title: 歷代長術輯要
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb023.xml
+hash: sha256:e7e11e720ea89019bdd0cc605ffdb7507d4dbfb2743131f7f18bd5f11611b384
