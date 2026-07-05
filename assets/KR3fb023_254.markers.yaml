@@ -47,7 +47,6 @@ markers:
   - {type: line-break, offset: 138, content: '', id: KR3fb023_tls_254-bkklb3}
   - {type: 'tls:seg-end', offset: 143, content: '', id: KR3fb023_tls_001-p127.s9.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 143, content: '', id: KR3fb023_tls_001-p127.s9.3}
-  - {type: substitution, offset: 147, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: 'tls:seg', offset: 155, content: '', id: KR3fb023_tls_001-p127.s10}
   - {type: line-break, offset: 155, content: '', id: KX_10_dup121, _xml_error: duplicate-id, _xml_original_id: KX_10}
   - {type: 'tls:seg', offset: 158, content: '', id: KR3fb023_tls_001-p127.s12.1}
@@ -87,7 +86,6 @@ markers:
   - {type: 'tls:seg', offset: 250, content: '', id: KR3fb023_tls_001-p127.s18.3}
   - {type: 'tls:seg', offset: 268, content: '', id: KR3fb023_tls_001-p127.s19}
   - {type: line-break, offset: 268, content: '', id: KX_19_dup119, _xml_error: duplicate-id, _xml_original_id: KX_19}
-  - {type: substitution, offset: 274, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: 'tls:seg', offset: 284, content: '', id: KR3fb023_tls_001-p127.s20.1}
   - {type: line-break, offset: 284, content: '', id: KX_20_dup119, _xml_error: duplicate-id, _xml_original_id: KX_20}
   - {type: 'tls:seg-start', offset: 286, content: '', id: KR3fb023_tls_001-p127.s20.2, seg_type: comm, member_ids: [KR3fb023_tls_001-p127.s20.2]}
@@ -100,4 +98,4 @@ markers:
   - {type: 'tls:seg', offset: 310, content: '', id: KR3fb023_tls_001-p127.s21.2}
   - {type: line-break, offset: 313, content: '', id: KR3fb023_tls_254-bkklb6}
   back: []
-hash: sha256:92058bce6b0bd27038f696b92ecb84aac6ec4e5451d9b57dbfac1188c9a33cea
+hash: sha256:5b43d72fb5db8b0468374433977afca2cb75bc56dead1739595de98963700cdf

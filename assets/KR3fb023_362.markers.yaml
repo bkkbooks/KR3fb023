@@ -24,7 +24,6 @@ markers:
   - {type: line-break, offset: 52, content: '', id: KR3fb023_tls_362-bkklb1}
   - {type: 'tls:seg-end', offset: 55, content: '', id: KR3fb023_tls_001-p181.s4.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 55, content: '', id: KR3fb023_tls_001-p181.s4.3}
-  - {type: substitution, offset: 63, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: 'tls:seg', offset: 68, content: '', id: KR3fb023_tls_001-p181.s5}
   - {type: line-break, offset: 68, content: '', id: KX_5_dup180, _xml_error: duplicate-id, _xml_original_id: KX_5}
   - {type: 'tls:seg', offset: 82, content: '', id: KR3fb023_tls_001-p181.s6.1}
@@ -82,7 +81,6 @@ markers:
   - {type: line-break, offset: 240, content: '', id: KX_17_dup172, _xml_error: duplicate-id, _xml_original_id: KX_17}
   - {type: 'tls:seg', offset: 261, content: '', id: KR3fb023_tls_001-p181.s18}
   - {type: line-break, offset: 261, content: '', id: KX_18_dup172, _xml_error: duplicate-id, _xml_original_id: KX_18}
-  - {type: substitution, offset: 270, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: 'tls:seg', offset: 278, content: '', id: KR3fb023_tls_001-p181.s19.1}
   - {type: line-break, offset: 278, content: '', id: KX_19_dup172, _xml_error: duplicate-id, _xml_original_id: KX_19}
   - {type: 'tls:seg-start', offset: 280, content: '', id: KR3fb023_tls_001-p181.s19.2, seg_type: comm, member_ids: [KR3fb023_tls_001-p181.s19.2]}
@@ -108,4 +106,4 @@ markers:
   - {type: 'tls:seg-end', offset: 327, content: '', id: KR3fb023_tls_001-p181.s21.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 327, content: '', id: KR3fb023_tls_001-p181.s21.3}
   back: []
-hash: sha256:377e4c77110c00271a0bec5ac45bbdc984a2ca41b0421dbe80618a8ed29535f5
+hash: sha256:14bced9f851d7c356e888d774b91ab63efcfbd39b716c14b6cffd98e7c35d428

@@ -24,7 +24,6 @@ markers:
   - {type: line-break, offset: 51, content: '', id: KX_5_dup226, _xml_error: duplicate-id, _xml_original_id: KX_5}
   - {type: 'tls:seg-start', offset: 55, content: '', id: KR3fb023_tls_001-p227.s5.2, seg_type: comm, member_ids: [KR3fb023_tls_001-p227.s5.2]}
   - {type: 'tls:seg', offset: 55, content: '', id: KR3fb023_tls_001-p227.s5.2}
-  - {type: substitution, offset: 58, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0402}}
   - {type: line-break, offset: 60, content: '', id: KR3fb023_tls_454-bkklb2}
   - {type: 'tls:seg-end', offset: 65, content: '', id: KR3fb023_tls_001-p227.s5.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 65, content: '', id: KR3fb023_tls_001-p227.s6.1}
@@ -68,7 +67,6 @@ markers:
   - {type: line-break, offset: 193, content: '', id: KX_15_dup216, _xml_error: duplicate-id, _xml_original_id: KX_15}
   - {type: 'tls:seg', offset: 214, content: '', id: KR3fb023_tls_001-p227.s16}
   - {type: line-break, offset: 214, content: '', id: KX_16_dup216, _xml_error: duplicate-id, _xml_original_id: KX_16}
-  - {type: substitution, offset: 218, original: 譌, replacement: 訛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0230}}
   - {type: 'tls:seg', offset: 221, content: '', id: KR3fb023_tls_001-p227.s17.1}
   - {type: line-break, offset: 221, content: '', id: KX_17_dup216, _xml_error: duplicate-id, _xml_original_id: KX_17}
   - {type: 'tls:seg-start', offset: 223, content: '', id: KR3fb023_tls_001-p227.s17.2, seg_type: comm, member_ids: [KR3fb023_tls_001-p227.s17.2]}
@@ -93,4 +91,4 @@ markers:
   - {type: 'tls:seg', offset: 299, content: '', id: KR3fb023_tls_001-p227.s21}
   - {type: line-break, offset: 299, content: '', id: KX_21_dup222, _xml_error: duplicate-id, _xml_original_id: KX_21}
   back: []
-hash: sha256:e44ed0366ed94e878563ed70bcb3fadbb152d8a629eb3de8223c8d139340ef98
+hash: sha256:97d7d191c1a8da81369e4a80a3dcb8e39791fdfcd7ffd28b227184174356d132

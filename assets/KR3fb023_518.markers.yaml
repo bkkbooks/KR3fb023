@@ -10,7 +10,6 @@ markers:
   - {type: line-break, offset: 15, content: '', id: KR3fb023_tls_518-bkklb1}
   - {type: 'tls:seg-end', offset: 20, content: '', id: KR3fb023_tls_001-p258.s1.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 20, content: '', id: KR3fb023_tls_001-p258.s1.3}
-  - {type: substitution, offset: 24, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: 'tls:seg', offset: 26, content: '', id: KR3fb023_tls_001-p258.s2}
   - {type: line-break, offset: 26, content: '', id: KX_2_dup258, _xml_error: duplicate-id, _xml_original_id: KX_2}
   - {type: 'tls:seg', offset: 44, content: '', id: KR3fb023_tls_001-p258.s3.1}
@@ -21,10 +20,8 @@ markers:
   - {type: 'tls:seg', offset: 47, content: '', id: KR3fb023_tls_001-p258.s3.3}
   - {type: 'tls:seg', offset: 65, content: '', id: KR3fb023_tls_001-p258.s4}
   - {type: line-break, offset: 65, content: '', id: KX_4_dup257, _xml_error: duplicate-id, _xml_original_id: KX_4}
-  - {type: substitution, offset: 74, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: 'tls:seg', offset: 86, content: '', id: KR3fb023_tls_001-p258.s5}
   - {type: line-break, offset: 86, content: '', id: KX_5_dup257, _xml_error: duplicate-id, _xml_original_id: KX_5}
-  - {type: substitution, offset: 100, original: 譌, replacement: 訛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0230}}
   - {type: 'tls:seg', offset: 101, content: '', id: KR3fb023_tls_001-p258.s6.1}
   - {type: line-break, offset: 101, content: '', id: KX_6_dup255, _xml_error: duplicate-id, _xml_original_id: KX_6}
   - {type: 'tls:seg-start', offset: 103, content: '', id: KR3fb023_tls_001-p258.s6.2, seg_type: comm, member_ids: [KR3fb023_tls_001-p258.s6.2]}
@@ -46,7 +43,6 @@ markers:
   - {type: line-break, offset: 163, content: '', id: KR3fb023_tls_518-bkklb2}
   - {type: 'tls:seg-end', offset: 168, content: '', id: KR3fb023_tls_001-p258.s9.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 168, content: '', id: KR3fb023_tls_001-p258.s9.3}
-  - {type: substitution, offset: 172, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: 'tls:seg', offset: 180, content: '', id: KR3fb023_tls_001-p258.s10}
   - {type: line-break, offset: 180, content: '', id: KX_10_dup250, _xml_error: duplicate-id, _xml_original_id: KX_10}
   - {type: 'tls:seg', offset: 201, content: '', id: KR3fb023_tls_001-p258.s12.1}
@@ -65,7 +61,6 @@ markers:
   - {type: 'tls:seg', offset: 232, content: '', id: KR3fb023_tls_001-p258.s14.3}
   - {type: 'tls:seg', offset: 250, content: '', id: KR3fb023_tls_001-p258.s15}
   - {type: line-break, offset: 250, content: '', id: KX_15_dup247, _xml_error: duplicate-id, _xml_original_id: KX_15}
-  - {type: substitution, offset: 256, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: 'tls:seg', offset: 266, content: '', id: KR3fb023_tls_001-p258.s16.1}
   - {type: line-break, offset: 266, content: '', id: KX_16_dup247, _xml_error: duplicate-id, _xml_original_id: KX_16}
   - {type: 'tls:seg-start', offset: 268, content: '', id: KR3fb023_tls_001-p258.s16.2, seg_type: comm, member_ids: [KR3fb023_tls_001-p258.s16.2]}
@@ -96,4 +91,4 @@ markers:
   - {type: 'tls:seg-end', offset: 359, content: '', id: KR3fb023_tls_001-p258.s21.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 359, content: '', id: KR3fb023_tls_001-p258.s21.3}
   back: []
-hash: sha256:ee0f6a0d50756364b67410b6a63fd85e491f29a90e097392cdca844f2d30dd3a
+hash: sha256:d658d11679608074918a9e711b688c591f45e4f2005a2dee8a7b8aad0fa21638

@@ -15,7 +15,6 @@ markers:
   - {type: 'tls:seg', offset: 9, content: '', id: KR3fb023_tls_001-p283.s2.3}
   - {type: 'tls:seg', offset: 24, content: '', id: KR3fb023_tls_001-p283.s3}
   - {type: line-break, offset: 24, content: '', id: KX_3_dup281, _xml_error: duplicate-id, _xml_original_id: KX_3}
-  - {type: substitution, offset: 35, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
   - {type: 'tls:seg', offset: 45, content: '', id: KR3fb023_tls_001-p283.s4}
   - {type: line-break, offset: 45, content: '', id: KX_4_dup281, _xml_error: duplicate-id, _xml_original_id: KX_4}
   - {type: punctuation, offset: 47, content: ○, id: KR3fb023_tls_570-bkkpn2}
@@ -36,8 +35,6 @@ markers:
   - {type: 'tls:seg', offset: 95, content: '', id: KR3fb023_tls_001-p283.s6.3}
   - {type: 'tls:seg', offset: 99, content: '', id: KR3fb023_tls_001-p283.s7}
   - {type: line-break, offset: 99, content: '', id: KX_7_dup276, _xml_error: duplicate-id, _xml_original_id: KX_7}
-  - {type: substitution, offset: 100, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
-  - {type: substitution, offset: 115, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
   - {type: 'tls:seg', offset: 120, content: '', id: KR3fb023_tls_001-p283.s8.1}
   - {type: line-break, offset: 120, content: '', id: KX_8_dup275, _xml_error: duplicate-id, _xml_original_id: KX_8}
   - {type: punctuation, offset: 135, content: ○, id: KR3fb023_tls_570-bkkpn4}
@@ -107,4 +104,4 @@ markers:
   - {type: line-break, offset: 333, content: '', id: KX_21_dup278, _xml_error: duplicate-id, _xml_original_id: KX_21}
   - {type: punctuation, offset: 344, content: ○, id: KR3fb023_tls_570-bkkpn12}
   back: []
-hash: sha256:8ebd1d89be8aea9c9f1d0924fd86218117eff914dfc9ec330a0e41ec1ba1f7d9
+hash: sha256:4891107b01ae6b297627cc96d6f3353866f18460def6411a0eb1384c51e2b696
