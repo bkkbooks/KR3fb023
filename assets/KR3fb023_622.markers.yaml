@@ -42,6 +42,7 @@ markers:
   - {type: 'tls:seg', offset: 109, content: '', id: KR3fb023_tls_001-p309.s6.3}
   - {type: 'tls:seg', offset: 125, content: '', id: KR3fb023_tls_001-p309.s7}
   - {type: line-break, offset: 125, content: '', id: KX_7_dup302, _xml_error: duplicate-id, _xml_original_id: KX_7}
+  - {type: substitution, offset: 141, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16303}}
   - {type: 'tls:seg', offset: 146, content: '', id: KR3fb023_tls_001-p309.s8}
   - {type: line-break, offset: 146, content: '', id: KX_8_dup301, _xml_error: duplicate-id, _xml_original_id: KX_8}
   - {type: punctuation, offset: 148, content: ○, id: KR3fb023_tls_622-bkkpn6}
@@ -73,6 +74,7 @@ markers:
   - {type: 'tls:seg', offset: 222, content: '', id: KR3fb023_tls_001-p309.s13.3}
   - {type: 'tls:seg', offset: 237, content: '', id: KR3fb023_tls_001-p309.s14}
   - {type: line-break, offset: 237, content: '', id: KX_14_dup298, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: substitution, offset: 255, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: 'tls:seg', offset: 258, content: '', id: KR3fb023_tls_001-p309.s15}
   - {type: line-break, offset: 258, content: '', id: KX_15_dup296, _xml_error: duplicate-id, _xml_original_id: KX_15}
   - {type: punctuation, offset: 275, content: ○, id: KR3fb023_tls_622-bkkpn10}
@@ -107,4 +109,4 @@ markers:
   - {type: 'tls:seg-end', offset: 375, content: '', id: KR3fb023_tls_001-p309.s21.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 375, content: '', id: KR3fb023_tls_001-p309.s21.3}
   back: []
-hash: sha256:e30d5f0249499162a7ab0fe69c68fdb7bbfa0f83acc7e5fa3f6761d5c8ae66a4
+hash: sha256:e3a4cc233ab84f0a3371b63966f91d00cdfe453e61fc53097a2163057e78d488

@@ -80,6 +80,7 @@ markers:
   - {type: 'tls:seg', offset: 252, content: '', id: KR3fb023_tls_001-p174.s16.3}
   - {type: 'tls:seg', offset: 257, content: '', id: KR3fb023_tls_001-p174.s17}
   - {type: line-break, offset: 257, content: '', id: KX_17_dup165, _xml_error: duplicate-id, _xml_original_id: KX_17}
+  - {type: substitution, offset: 263, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: 'tls:seg', offset: 278, content: '', id: KR3fb023_tls_001-p174.s18}
   - {type: line-break, offset: 278, content: '', id: KX_18_dup165, _xml_error: duplicate-id, _xml_original_id: KX_18}
   - {type: 'tls:seg', offset: 285, content: '', id: KR3fb023_tls_001-p174.s19.1}
@@ -87,6 +88,7 @@ markers:
   - {type: 'tls:seg-start', offset: 287, content: '', id: KR3fb023_tls_001-p174.s19.2, seg_type: comm, member_ids: [KR3fb023_tls_001-p174.s19.2]}
   - {type: 'tls:seg', offset: 287, content: '', id: KR3fb023_tls_001-p174.s19.2}
   - {type: line-break, offset: 290, content: '', id: KR3fb023_tls_348-bkklb7}
+  - {type: substitution, offset: 290, original: 甯, replacement: 寧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16283}}
   - {type: 'tls:seg-end', offset: 292, content: '', id: KR3fb023_tls_001-p174.s19.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 292, content: '', id: KR3fb023_tls_001-p174.s19.3}
   - {type: 'tls:seg', offset: 308, content: '', id: KR3fb023_tls_001-p174.s20}
@@ -94,4 +96,4 @@ markers:
   - {type: 'tls:seg', offset: 329, content: '', id: KR3fb023_tls_001-p174.s21}
   - {type: line-break, offset: 329, content: '', id: KX_21_dup169, _xml_error: duplicate-id, _xml_original_id: KX_21}
   back: []
-hash: sha256:57b8244a69654bf19268f6f3f0a49ca8ff650b99dbf46813cf2a29034f611609
+hash: sha256:85f031694a0c750a5c7a4fd63dfc8ab72efb04581f801e4e4491ff5135a35493

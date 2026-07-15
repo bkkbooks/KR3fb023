@@ -20,6 +20,7 @@ markers:
   - {type: 'tls:seg', offset: 47, content: '', id: KR3fb023_tls_001-p331.s2.3}
   - {type: 'tls:seg', offset: 51, content: '', id: KR3fb023_tls_001-p331.s3}
   - {type: line-break, offset: 51, content: '', id: KX_3_dup329, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: substitution, offset: 51, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: 'tls:seg', offset: 72, content: '', id: KR3fb023_tls_001-p331.s4}
   - {type: line-break, offset: 72, content: '', id: KX_4_dup329, _xml_error: duplicate-id, _xml_original_id: KX_4}
   - {type: punctuation, offset: 72, content: ○, id: KR3fb023_tls_666-bkkpn2}
@@ -32,6 +33,7 @@ markers:
   - {type: 'tls:seg', offset: 108, content: '', id: KR3fb023_tls_001-p331.s5.3}
   - {type: 'tls:seg', offset: 118, content: '', id: KR3fb023_tls_001-p331.s6}
   - {type: line-break, offset: 118, content: '', id: KX_6_dup327, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: substitution, offset: 119, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: 'tls:seg', offset: 129, content: '', id: KR3fb023_tls_001-p331.s7.1}
   - {type: line-break, offset: 129, content: '', id: KX_7_dup324, _xml_error: duplicate-id, _xml_original_id: KX_7}
   - {type: 'tls:seg-start', offset: 131, content: '', id: KR3fb023_tls_001-p331.s7.2, seg_type: comm, member_ids: [KR3fb023_tls_001-p331.s7.2]}
@@ -42,6 +44,7 @@ markers:
   - {type: 'tls:seg', offset: 136, content: '', id: KR3fb023_tls_001-p331.s7.3}
   - {type: 'tls:seg', offset: 152, content: '', id: KR3fb023_tls_001-p331.s8}
   - {type: line-break, offset: 152, content: '', id: KX_8_dup323, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: substitution, offset: 169, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16303}}
   - {type: 'tls:seg', offset: 173, content: '', id: KR3fb023_tls_001-p331.s9}
   - {type: line-break, offset: 173, content: '', id: KX_9_dup322, _xml_error: duplicate-id, _xml_original_id: KX_9}
   - {type: punctuation, offset: 177, content: ○, id: KR3fb023_tls_666-bkkpn4}
@@ -90,6 +93,8 @@ markers:
   - {type: line-break, offset: 303, content: '', id: KR3fb023_tls_666-bkklb9}
   - {type: 'tls:seg-end', offset: 304, content: '', id: KR3fb023_tls_001-p331.s18.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 304, content: '', id: KR3fb023_tls_001-p331.s18.3}
+  - {type: substitution, offset: 309, original: 卽, replacement: 即, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19475}}
+  - {type: substitution, offset: 317, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg', offset: 322, content: '', id: KR3fb023_tls_001-p331.s19}
   - {type: line-break, offset: 322, content: '', id: KX_19_dup318, _xml_error: duplicate-id, _xml_original_id: KX_19}
   - {type: 'tls:seg-start', offset: 343, content: '', id: KR3fb023_tls_001-p331.s20.1, seg_type: comm, member_ids: [KR3fb023_tls_001-p331.s20.1]}
@@ -105,4 +110,4 @@ markers:
   - {type: 'tls:seg-end', offset: 357, content: '', id: KR3fb023_tls_001-p331.s21.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 357, content: '', id: KR3fb023_tls_001-p331.s21.3}
   back: []
-hash: sha256:9d26f25c6188e1f45f1d3f0543b29b55fc069e90296572166841ddb42628ad8e
+hash: sha256:c6e362c4c457728f0c3ba4e8e0c021392aa4d83c57f3903bb2cedf821b8d41a2

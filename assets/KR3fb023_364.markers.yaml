@@ -107,5 +107,7 @@ markers:
   - {type: 'tls:seg', offset: 329, content: '', id: KR3fb023_tls_001-p182.s20.3}
   - {type: 'tls:seg', offset: 335, content: '', id: KR3fb023_tls_001-p182.s21}
   - {type: line-break, offset: 335, content: '', id: KX_21_dup177, _xml_error: duplicate-id, _xml_original_id: KX_21}
+  - {type: substitution, offset: 337, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
+  - {type: substitution, offset: 355, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   back: []
-hash: sha256:dbfc377ab562627029cb38e65fdc6f85ad66c5286a81ec9e456ac222b04e8fad
+hash: sha256:8f7cd786b8cdf3bd776105e289fe97dadc69261e839efe270e0287edebeada9a

@@ -44,6 +44,8 @@ markers:
   - {type: 'tls:seg', offset: 107, content: '', id: KR3fb023_tls_001-p260.s8.3}
   - {type: 'tls:seg', offset: 124, content: '', id: KR3fb023_tls_001-p260.s9}
   - {type: line-break, offset: 124, content: '', id: KX_9_dup252, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: substitution, offset: 131, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
+  - {type: substitution, offset: 142, original: 譌, replacement: 訛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16401}}
   - {type: 'tls:seg', offset: 143, content: '', id: KR3fb023_tls_001-p260.s10.1}
   - {type: line-break, offset: 143, content: '', id: KX_10_dup252, _xml_error: duplicate-id, _xml_original_id: KX_10}
   - {type: 'tls:seg-start', offset: 145, content: '', id: KR3fb023_tls_001-p260.s10.2, seg_type: comm, member_ids: [KR3fb023_tls_001-p260.s10.2]}
@@ -57,6 +59,7 @@ markers:
   - {type: line-break, offset: 173, content: '', id: KR3fb023_tls_522-bkklb4}
   - {type: 'tls:seg-end', offset: 178, content: '', id: KR3fb023_tls_001-p260.s12.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 178, content: '', id: KR3fb023_tls_001-p260.s12.3}
+  - {type: substitution, offset: 182, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: 'tls:seg', offset: 190, content: '', id: KR3fb023_tls_001-p260.s13}
   - {type: line-break, offset: 190, content: '', id: KX_13_dup251, _xml_error: duplicate-id, _xml_original_id: KX_13}
   - {type: 'tls:seg', offset: 200, content: '', id: KR3fb023_tls_001-p260.s14.1}
@@ -79,6 +82,7 @@ markers:
   - {type: line-break, offset: 249, content: '', id: KX_18_dup249, _xml_error: duplicate-id, _xml_original_id: KX_18}
   - {type: 'tls:seg-start', offset: 251, content: '', id: KR3fb023_tls_001-p260.s18.2, seg_type: comm, member_ids: [KR3fb023_tls_001-p260.s18.2]}
   - {type: 'tls:seg', offset: 251, content: '', id: KR3fb023_tls_001-p260.s18.2}
+  - {type: substitution, offset: 252, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
   - {type: line-break, offset: 253, content: '', id: KR3fb023_tls_522-bkklb5}
   - {type: 'tls:seg-end', offset: 254, content: '', id: KR3fb023_tls_001-p260.s18.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 254, content: '', id: KR3fb023_tls_001-p260.s18.3}
@@ -89,6 +93,7 @@ markers:
   - {type: line-break, offset: 284, content: '', id: KR3fb023_tls_522-bkklb6}
   - {type: 'tls:seg-end', offset: 289, content: '', id: KR3fb023_tls_001-p260.s19.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 289, content: '', id: KR3fb023_tls_001-p260.s19.3}
+  - {type: substitution, offset: 293, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: 'tls:seg', offset: 297, content: '', id: KR3fb023_tls_001-p260.s20}
   - {type: line-break, offset: 297, content: '', id: KX_20_dup249, _xml_error: duplicate-id, _xml_original_id: KX_20}
   - {type: 'tls:seg', offset: 303, content: '', id: KR3fb023_tls_001-p260.s21.1}
@@ -98,4 +103,4 @@ markers:
   - {type: 'tls:seg-end', offset: 306, content: '', id: KR3fb023_tls_001-p260.s21.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 306, content: '', id: KR3fb023_tls_001-p260.s21.3}
   back: []
-hash: sha256:0bc9ac2bc71553c60971b18a567f8346f9bf9a063ee22b36f73c67106ba29746
+hash: sha256:2b3e381336341d22591f115430c3f6c15f84ea9571f296770b1236fa4e3db3b0

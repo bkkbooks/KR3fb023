@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 寅春分三丙申穀雨己未晉恭帝元熙元涼八魏四晉魏正壬辰二辛酉四庚申六己未九戊子十一丁亥朔按通鑑目錄九戊子作八戊午宋本作八戊子並不合涼正壬辰二辛酉四庚申六己未八戊午十一丁亥朔歷代長術輯要卷五
-  hash: sha256:8c7ba466a3e09dc3a88d2d8e5f4aeb2c604a3e751ce10f2636ee4fd1bb8382ef
+  text: 寅春分三丙申穀雨己未晉恭帝元熙元涼八魏四晉魏正壬辰二辛酉四庚申六己未九戊子十一丁亥朔按通鑑目録九戊子作八戊午宋本作八戊子並不合涼正壬辰二辛酉四庚申六己未八戊午十一丁亥朔歷代長術輯要卷五
+  hash: sha256:575b5ab71f5756982477222c02da2b864ce75681d649f409b167035e526a3eb6
 metadata:
   title: 歷代長術輯要
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb023.xml
-hash: sha256:6d14398c7aef085614fafb478d8919babd51a093e645b3b1198c8b20ca6e3246
+hash: sha256:6398cccc5f1601ee83300eac29a0f6c0cb0d070213f4bcae5161fc79ecf803cc

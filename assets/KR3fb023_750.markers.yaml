@@ -5,6 +5,7 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fb023_tls_001-p373.s1}
   - {type: line-break, offset: 0, content: '', id: KX_1_dup359, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: substitution, offset: 17, original: 恒, replacement: 恆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20663}}
   - {type: 'tls:seg', offset: 21, content: '', id: KR3fb023_tls_001-p373.s2}
   - {type: line-break, offset: 21, content: '', id: KX_2_dup372, _xml_error: duplicate-id, _xml_original_id: KX_2}
   - {type: 'tls:seg', offset: 42, content: '', id: KR3fb023_tls_001-p373.s3}
@@ -40,6 +41,8 @@ markers:
   - {type: 'tls:seg', offset: 186, content: '', id: KR3fb023_tls_001-p373.s10.2}
   - {type: 'tls:seg', offset: 205, content: '', id: KR3fb023_tls_001-p373.s12}
   - {type: line-break, offset: 205, content: '', id: KX_12_dup363, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: substitution, offset: 206, original: 旣, replacement: 既, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19499}}
+  - {type: substitution, offset: 211, original: 擧, replacement: 舉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17026}}
   - {type: 'tls:seg', offset: 225, content: '', id: KR3fb023_tls_001-p373.s13}
   - {type: line-break, offset: 225, content: '', id: KX_13_dup362, _xml_error: duplicate-id, _xml_original_id: KX_13}
   - {type: 'tls:seg', offset: 246, content: '', id: KR3fb023_tls_001-p373.s14.1}
@@ -57,4 +60,4 @@ markers:
   - {type: line-break, offset: 299, content: '', id: KX_21_dup368, _xml_error: duplicate-id, _xml_original_id: KX_21}
   - {type: xml-element, offset: 307, content: '', id: KR3fb023_tls_750-bkkxmlele1, name: p, role: close}
   back: []
-hash: sha256:6b2cc1ce9109e83d4f2c3530671b3999292328bc2cebd63a1d4719760ce52804
+hash: sha256:a06e8a5628786ebeb9ed71881bfa20c94398b201fe84bc642a60f6098abf9fd8

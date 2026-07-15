@@ -33,6 +33,7 @@ markers:
   - {type: 'tls:seg', offset: 82, content: '', id: KR3fb023_tls_001-p308.s5.3}
   - {type: 'tls:seg', offset: 98, content: '', id: KR3fb023_tls_001-p308.s6}
   - {type: line-break, offset: 98, content: '', id: KX_6_dup304, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: substitution, offset: 115, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16303}}
   - {type: 'tls:seg', offset: 119, content: '', id: KR3fb023_tls_001-p308.s7}
   - {type: line-break, offset: 119, content: '', id: KX_7_dup301, _xml_error: duplicate-id, _xml_original_id: KX_7}
   - {type: punctuation, offset: 126, content: ○, id: KR3fb023_tls_620-bkkpn4}
@@ -55,6 +56,7 @@ markers:
   - {type: 'tls:seg', offset: 187, content: '', id: KR3fb023_tls_001-p308.s10.3}
   - {type: 'tls:seg', offset: 190, content: '', id: KR3fb023_tls_001-p308.s12}
   - {type: line-break, offset: 190, content: '', id: KX_12_dup299, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: substitution, offset: 195, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: punctuation, offset: 203, content: ○, id: KR3fb023_tls_620-bkkpn6}
   - {type: 'tls:seg', offset: 210, content: '', id: KR3fb023_tls_001-p308.s13.1}
   - {type: line-break, offset: 210, content: '', id: KX_13_dup298, _xml_error: duplicate-id, _xml_original_id: KX_13}
@@ -94,4 +96,4 @@ markers:
   - {type: 'tls:seg', offset: 351, content: '', id: KR3fb023_tls_001-p308.s21}
   - {type: line-break, offset: 351, content: '', id: KX_21_dup303, _xml_error: duplicate-id, _xml_original_id: KX_21}
   back: []
-hash: sha256:b61d1220a6d330ff5dc938bfc8f6c8c60f9c461f0e88d367a096515219bf2295
+hash: sha256:357b6dc88ab383a604c5a8d63f0c09fa0a1cfa5b668249180ae020d95abac283
